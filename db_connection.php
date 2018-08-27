@@ -1,9 +1,9 @@
 <?php
 //Could wrap in function then call function instead of $mysqli-query($var).
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "tresna_db_offline";
+$servername = "#";
+$username = "#";
+$password = "#";
+$dbname = "#";
 //create connection
 $mysqli = new mysqli($servername, $username, $password, $dbname);
 //Check Connection
